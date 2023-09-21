@@ -1,0 +1,444 @@
+failed to get console mode for stdout: The handle is invalid.
+failed to get console mode for stdout: The handle is invalid.
+[1A[1B[0G[?25l[+] Running 0/0
+ - item-app Pulling [34m0.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m0.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m0.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m0.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m0.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m0.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m0.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m0.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m0.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m1.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m1.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m1.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m1.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m1.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m1.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m1.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m1.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ - item-app Pulling [34m1.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⠀⠀⠀[0m]      0B/0B      Pulling [34m1.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⠀⠀⠀[0m]      0B/0B      Pulling [34m2.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⠀⠀⠀[0m]      0B/0B      Pulling [34m2.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⠀⠀⠀[0m]      0B/0B      Pulling [34m2.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⠀⠀⠀[0m]      0B/0B      Pulling [34m2.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⠀⠀⠀[0m]      0B/0B      Pulling [34m2.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⠀⠀⠀[0m]      0B/0B      Pulling [34m2.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⠀⠀⠀[0m]      0B/0B      Pulling [34m2.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m]      0B/0B      Pulling [34m2.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m]      0B/0B      Pulling [34m2.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m]      0B/0B      Pulling [34m2.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m]      0B/0B      Pulling [34m3.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m]  24.8kB/2.478MB Pulling [34m3.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m]  24.8kB/2.478MB Pulling [34m3.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m] 89.95kB/2.478MB Pulling [34m3.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m] 130.2kB/2.478MB Pulling [34m3.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m] 130.2kB/2.478MB Pulling [34m3.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m] 195.7kB/2.478MB Pulling [34m3.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m] 195.7kB/2.478MB Pulling [34m3.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m] 195.7kB/2.478MB Pulling [34m3.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m] 358.6kB/17.38MB Pulling [34m3.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m] 391.4kB/17.38MB Pulling [34m4.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m] 391.4kB/17.38MB Pulling [34m4.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m] 391.4kB/17.38MB Pulling [34m4.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m] 555.2kB/17.38MB Pulling [34m4.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m] 555.2kB/17.38MB Pulling [34m4.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m]   588kB/17.38MB Pulling [34m4.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m] 620.8kB/17.38MB Pulling [34m4.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m] 620.8kB/17.38MB Pulling [34m4.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⠀[0m] 620.8kB/17.38MB Pulling [34m4.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⡀⠀[0m] 653.5kB/17.38MB Pulling [34m4.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⡀⠀[0m] 686.3kB/17.38MB Pulling [34m5.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⡀⠀[0m] 850.1kB/17.38MB Pulling [34m5.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⡀⠀[0m] 882.9kB/17.38MB Pulling [34m5.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⡀⠀[0m] 882.9kB/17.38MB Pulling [34m5.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⡀⠀[0m] 882.9kB/17.38MB Pulling [34m5.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⡀⠀[0m] 915.7kB/17.38MB Pulling [34m5.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⡀⠀[0m] 981.2kB/17.38MB Pulling [34m5.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⡀⠀[0m] 981.2kB/17.38MB Pulling [34m5.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⡀⠀[0m] 1.047MB/17.38MB Pulling [34m5.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣀⠀[0m] 1.112MB/17.38MB Pulling [34m5.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣀⠀[0m] 1.374MB/17.38MB Pulling [34m6.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣀⠀[0m] 1.473MB/17.38MB Pulling [34m6.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣀⠀[0m] 1.571MB/17.38MB Pulling [34m6.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣀⠀[0m] 1.735MB/17.38MB Pulling [34m6.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣄⠀[0m] 1.866MB/17.38MB Pulling [34m6.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣄⠀[0m] 2.003MB/17.38MB Pulling [34m6.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣤⠀[0m] 2.298MB/17.38MB Pulling [34m6.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣤⠀[0m] 2.617MB/17.38MB Pulling [34m6.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣦⠀[0m] 2.781MB/17.38MB Pulling [34m6.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣦⠀[0m] 3.108MB/17.38MB Pulling [34m6.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣶⠀[0m] 3.457MB/17.38MB Pulling [34m7.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣶⠀[0m] 3.621MB/17.38MB Pulling [34m7.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣷⠀[0m] 3.975MB/17.38MB Pulling [34m7.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⠀⡀[0m] 1.976MB/17.38MB Pulling [34m7.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 4.586MB/17.38MB Pulling [34m7.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 2.107MB/14.9MB  Pulling [34m7.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 2.426MB/14.9MB  Pulling [34m7.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 2.426MB/14.9MB  Pulling [34m7.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 2.747MB/14.9MB  Pulling [34m7.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 2.747MB/14.9MB  Pulling [34m7.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 3.069MB/14.9MB  Pulling [34m8.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m]  3.39MB/14.9MB  Pulling [34m8.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 3.705MB/14.9MB  Pulling [34m8.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 3.705MB/14.9MB  Pulling [34m8.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 4.026MB/14.9MB  Pulling [34m8.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 4.354MB/14.9MB  Pulling [34m8.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 4.682MB/14.9MB  Pulling [34m8.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 5.009MB/14.9MB  Pulling [34m8.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 5.009MB/14.9MB  Pulling [34m8.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 5.337MB/14.9MB  Pulling [34m8.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 5.656MB/14.9MB  Pulling [34m9.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣄[0m] 5.977MB/14.9MB  Pulling [34m9.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣄[0m] 6.463MB/14.9MB  Pulling [34m9.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣄[0m] 6.463MB/14.9MB  Pulling [34m9.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣄[0m] 6.942MB/14.9MB  Pulling [34m9.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣄[0m] 7.263MB/14.9MB  Pulling [34m9.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣤[0m] 7.749MB/14.9MB  Pulling [34m9.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣤[0m] 8.228MB/14.9MB  Pulling [34m9.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣤[0m] 8.228MB/14.9MB  Pulling [34m9.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣤[0m]  8.72MB/14.9MB  Pulling [34m9.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣤[0m] 9.199MB/14.9MB  Pulling [34m10.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣦[0m] 9.854MB/14.9MB  Pulling [34m10.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣦[0m] 9.854MB/14.9MB  Pulling [34m10.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣦[0m] 10.34MB/14.9MB  Pulling [34m10.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣦[0m] 10.82MB/14.9MB  Pulling [34m10.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣶[0m] 11.31MB/14.9MB  Pulling [34m10.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣶[0m] 11.79MB/14.9MB  Pulling [34m10.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣶[0m] 12.29MB/14.9MB  Pulling [34m10.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣶[0m] 12.77MB/14.9MB  Pulling [34m10.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣷[0m] 13.26MB/14.9MB  Pulling [34m10.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣷[0m] 13.89MB/14.9MB  Pulling [34m11.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣷[0m] 13.89MB/14.9MB  Pulling [34m11.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⠀[0m] 163.8kB/14.9MB  Pulling [34m11.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⠀[0m] 163.8kB/14.9MB  Pulling [34m11.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⠀[0m] 819.2kB/14.9MB  Pulling [34m11.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⠀[0m] 819.2kB/14.9MB  Pulling [34m11.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⠀[0m]   983kB/14.9MB  Pulling [34m11.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⠀[0m] 1.311MB/14.9MB  Pulling [34m11.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⠀[0m] 1.311MB/14.9MB  Pulling [34m11.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⠀[0m] 1.475MB/14.9MB  Pulling [34m11.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⠀[0m] 1.475MB/14.9MB  Pulling [34m12.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⠀[0m] 1.638MB/14.9MB  Pulling [34m12.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⠀[0m] 1.638MB/14.9MB  Pulling [34m12.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⠀[0m] 1.802MB/14.9MB  Pulling [34m12.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⠀[0m] 1.802MB/14.9MB  Pulling [34m12.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 1.966MB/14.9MB  Pulling [34m12.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 1.966MB/14.9MB  Pulling [34m12.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m]  2.13MB/14.9MB  Pulling [34m12.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 2.458MB/14.9MB  Pulling [34m12.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 2.458MB/14.9MB  Pulling [34m12.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 2.458MB/14.9MB  Pulling [34m13.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 2.785MB/14.9MB  Pulling [34m13.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 3.277MB/14.9MB  Pulling [34m13.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⡀[0m] 3.441MB/14.9MB  Pulling [34m13.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 3.768MB/14.9MB  Pulling [34m13.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 3.768MB/14.9MB  Pulling [34m13.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 3.768MB/14.9MB  Pulling [34m13.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 3.768MB/14.9MB  Pulling [34m13.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 3.768MB/14.9MB  Pulling [34m13.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 3.932MB/14.9MB  Pulling [34m13.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 3.932MB/14.9MB  Pulling [34m14.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m]  4.26MB/14.9MB  Pulling [34m14.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m]  4.26MB/14.9MB  Pulling [34m14.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m]  4.26MB/14.9MB  Pulling [34m14.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 4.588MB/14.9MB  Pulling [34m14.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 4.588MB/14.9MB  Pulling [34m14.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 4.751MB/14.9MB  Pulling [34m14.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 5.079MB/14.9MB  Pulling [34m14.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 5.079MB/14.9MB  Pulling [34m14.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣀[0m] 5.407MB/14.9MB  Pulling [34m14.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣄[0m] 5.734MB/14.9MB  Pulling [34m15.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣄[0m] 5.734MB/14.9MB  Pulling [34m15.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣄[0m] 6.062MB/14.9MB  Pulling [34m15.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣄[0m]  6.39MB/14.9MB  Pulling [34m15.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣄[0m] 6.881MB/14.9MB  Pulling [34m15.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣤[0m]   7.7MB/14.9MB  Pulling [34m15.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣦[0m] 10.49MB/14.9MB  Pulling [34m15.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣦[0m] 10.49MB/14.9MB  Pulling [34m15.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣶[0m]  11.8MB/14.9MB  Pulling [34m15.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣶[0m]  11.8MB/14.9MB  Pulling [34m15.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣶[0m] 13.11MB/14.9MB  Pulling [34m16.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣶[0m] 13.11MB/14.9MB  Pulling [34m16.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣷[0m]  13.6MB/14.9MB  Pulling [34m16.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣷[0m] 14.25MB/14.9MB  Pulling [34m16.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿[0m]  14.9MB/14.9MB  Pulling [34m16.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿[0m]  14.9MB/14.9MB  Pulling [34m16.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿[0m]  14.9MB/14.9MB  Pulling [34m16.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿[0m]  14.9MB/14.9MB  Pulling [34m16.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿[0m]  14.9MB/14.9MB  Pulling [34m16.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿[0m]  14.9MB/14.9MB  Pulling [34m16.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿[0m]  14.9MB/14.9MB  Pulling [34m17.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿[0m]  14.9MB/14.9MB  Pulling [34m17.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿[0m]  14.9MB/14.9MB  Pulling [34m17.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ - item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿[0m]  14.9MB/14.9MB  Pulling [34m17.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 8/1
+ [32m✔[0m item-app [33m7 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulled [32m[0m[34m17.4s [0m
+[?25h[1A[1B[0G[?25l[+] Running 0/0
+ - Network a433-microservices_default  Creating[34m0.1s [0m
+[?25h[1A[1A[0G[?25l[34m[+] Running 1/1[0m
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ - Container item-db                   Creating[34m0.1s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ - Container item-db                   Creating[34m0.2s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ - Container item-db                   Creating[34m0.3s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ - Container item-db                   Creating[34m0.4s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ - Container item-db                   Creating[34m0.5s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ - Container item-db                   Creating[34m0.6s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ - Container item-db                   Creating[34m0.7s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ - Container item-db                   Creating[34m0.8s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ - Container item-db                   Creating[34m0.9s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ - Container item-db                   Creating[34m1.0s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ - Container item-db                   Creating[34m1.1s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ - Container item-db                   Creating[34m1.2s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ - Container item-db                   Creating[34m1.3s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ - Container item-db                   Creating[34m1.4s [0m
+[?25h[1A[1A[1A[0G[?25l[34m[+] Running 2/2[0m
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ [32m✔[0m Container item-db                   [32mCreated[0m[34m1.4s [0m
+ - Container item-app                  Creating[34m0.1s [0m
+[?25h[1A[1A[1A[1A[0G[?25l[+] Running 2/3
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ [32m✔[0m Container item-db                   [32mCreated[0m[34m1.4s [0m
+ - Container item-app                  Creating[34m0.2s [0m
+[?25h[1A[1A[1A[1A[0G[?25l[34m[+] Running 3/3[0m
+ [32m✔[0m Network a433-microservices_default  [32mCreated[0m[34m0.1s [0m
+ [32m✔[0m Container item-db                   [32mCreated[0m[34m1.4s [0m
+ [32m✔[0m Container item-app                  [32mCreated[0m[34m0.2s [0m
+[?25hAttaching to item-app, item-db
+item-db   | 2023-09-21T14:41:44.651+0000 I CONTROL  [initandlisten] MongoDB starting : pid=1 port=27017 dbpath=/data/db 64-bit host=594bf45e8ae7
+item-db   | 2023-09-21T14:41:44.652+0000 I CONTROL  [initandlisten] db version v3.6.23
+item-db   | 2023-09-21T14:41:44.652+0000 I CONTROL  [initandlisten] git version: d352e6a4764659e0d0350ce77279de3c1f243e5c
+item-db   | 2023-09-21T14:41:44.652+0000 I CONTROL  [initandlisten] OpenSSL version: OpenSSL 1.0.2g  1 Mar 2016
+item-db   | 2023-09-21T14:41:44.652+0000 I CONTROL  [initandlisten] allocator: tcmalloc
+item-db   | 2023-09-21T14:41:44.652+0000 I CONTROL  [initandlisten] modules: none
+item-db   | 2023-09-21T14:41:44.652+0000 I CONTROL  [initandlisten] build environment:
+item-db   | 2023-09-21T14:41:44.652+0000 I CONTROL  [initandlisten]     distmod: ubuntu1604
+item-db   | 2023-09-21T14:41:44.652+0000 I CONTROL  [initandlisten]     distarch: x86_64
+item-db   | 2023-09-21T14:41:44.652+0000 I CONTROL  [initandlisten]     target_arch: x86_64
+item-db   | 2023-09-21T14:41:44.652+0000 I CONTROL  [initandlisten] options: { net: { bindIpAll: true }, security: { authorization: "enabled" } }
+item-db   | 2023-09-21T14:41:44.652+0000 I -        [initandlisten] Detected data files in /data/db created by the 'wiredTiger' storage engine, so setting the active storage engine to 'wiredTiger'.
+item-db   | 2023-09-21T14:41:44.652+0000 I STORAGE  [initandlisten] 
+item-db   | 2023-09-21T14:41:44.652+0000 I STORAGE  [initandlisten] ** WARNING: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine
+item-db   | 2023-09-21T14:41:44.652+0000 I STORAGE  [initandlisten] **          See http://dochub.mongodb.org/core/prodnotes-filesystem
+item-db   | 2023-09-21T14:41:44.653+0000 I STORAGE  [initandlisten] wiredtiger_open config: create,cache_size=3430M,cache_overflow=(file_max=0M),session_max=20000,eviction=(threads_min=4,threads_max=4),config_base=false,statistics=(fast),compatibility=(release="3.0",require_max="3.0"),log=(enabled=true,archive=true,path=journal,compressor=snappy),file_manager=(close_idle_time=100000),statistics_log=(wait=0),verbose=(recovery_progress),
+item-db   | 2023-09-21T14:41:45.972+0000 I STORAGE  [initandlisten] WiredTiger message [1695307305:972816][1:0x7fc3ee843a40], txn-recover: Main recovery loop: starting at 5/5888
+item-db   | 2023-09-21T14:41:46.143+0000 I STORAGE  [initandlisten] WiredTiger message [1695307306:142991][1:0x7fc3ee843a40], txn-recover: Recovering log 5 through 6
+item-db   | 2023-09-21T14:41:46.287+0000 I STORAGE  [initandlisten] WiredTiger message [1695307306:287152][1:0x7fc3ee843a40], txn-recover: Recovering log 6 through 6
+item-db   | 2023-09-21T14:41:46.429+0000 I STORAGE  [initandlisten] WiredTiger message [1695307306:429949][1:0x7fc3ee843a40], txn-recover: Set global recovery timestamp: 0
+item-app  | 
+item-app  | > docker-software-delivery@1.0.0 start /app
+item-app  | > node ./bin/www
+item-app  | 
+item-app  | 
+item-db   | 2023-09-21T14:41:46.526+0000 I CONTROL  [initandlisten] 
+item-db   | 2023-09-21T14:41:46.526+0000 I CONTROL  [initandlisten] ** WARNING: /sys/kernel/mm/transparent_hugepage/enabled is 'always'.
+item-db   | 2023-09-21T14:41:46.526+0000 I CONTROL  [initandlisten] **        We suggest setting it to 'never'
+item-db   | 2023-09-21T14:41:46.526+0000 I CONTROL  [initandlisten] 
+item-db   | 2023-09-21T14:41:46.533+0000 I FTDC     [initandlisten] Initializing full-time diagnostic data capture with directory '/data/db/diagnostic.data'
+item-db   | 2023-09-21T14:41:46.533+0000 I NETWORK  [initandlisten] listening via socket bound to 0.0.0.0
+item-db   | 2023-09-21T14:41:46.533+0000 I NETWORK  [initandlisten] listening via socket bound to /tmp/mongodb-27017.sock
+item-db   | 2023-09-21T14:41:46.533+0000 I NETWORK  [initandlisten] waiting for connections on port 27017
+item-app  | NODE_ENV: production
+item-db   | 2023-09-21T14:41:47.285+0000 I NETWORK  [listener] connection accepted from 172.23.0.3:57264 #1 (1 connection now open)
+item-db   | 2023-09-21T14:41:47.291+0000 I NETWORK  [conn1] received client metadata from 172.23.0.3:57264 conn1: { driver: { name: "nodejs", version: "2.2.36" }, os: { type: "Linux", name: "linux", architecture: "x64", version: "5.15.90.1-microsoft-standard-WSL2" }, platform: "Node.js v14.21.3, LE, mongodb-core: 2.1.20" }
+item-app  | Connected to database
